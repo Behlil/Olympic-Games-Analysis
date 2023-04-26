@@ -1,4 +1,4 @@
-
+# Olympic Games Analysis:
 
 ## Data Dictionary
 
@@ -19,6 +19,11 @@
 |sport    |Sport                          |
 |event    |Event                          |
 |medal    |Gold, Silver, Bronze, or NA    |
+
+
+## Data Validation:
+- Validate the necessary Categorical columns: sex, season and medal.
+- Validate numerical columns: height, weight, and age(all value refer to real Athletes).
 
 ## DATA CLEANING
 - Fill missing values in the age, height and weight columns.
